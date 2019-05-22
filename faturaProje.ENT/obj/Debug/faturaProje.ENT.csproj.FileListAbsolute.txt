@@ -1,0 +1,12 @@
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\bin\Debug\faturaProje.ENT.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\bin\Debug\faturaProje.ENT.pdb
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\obj\Debug\faturaProje.ENT.csprojAssemblyReference.cache
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\obj\Debug\faturaProje.ENT.csproj.CoreCompileInputs.cache
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\obj\Debug\faturaProje.ENT.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\obj\Debug\faturaProje.ENT.pdb
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\bin\Debug\faturaProje.ENT.dll.config
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\bin\Debug\EntityFramework.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\bin\Debug\EntityFramework.SqlServer.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\bin\Debug\EntityFramework.xml
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\bin\Debug\EntityFramework.SqlServer.xml
+F:\EntityFreamwoek\faturaProje\faturaProje.ENT\obj\Debug\faturaProje.ENT.csproj.CopyComplete

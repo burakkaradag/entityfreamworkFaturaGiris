@@ -1,0 +1,15 @@
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\faturaProje.DTO.dll.config
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\faturaProje.DTO.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\faturaProje.DTO.pdb
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\EntityFramework.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\EntityFramework.SqlServer.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\faturaProje.ENT.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\faturaProje.ENT.pdb
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\faturaProje.ENT.dll.config
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\EntityFramework.xml
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\bin\Debug\EntityFramework.SqlServer.xml
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\obj\Debug\faturaProje.DTO.csprojAssemblyReference.cache
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\obj\Debug\faturaProje.DTO.csproj.CoreCompileInputs.cache
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\obj\Debug\faturaProje.DTO.csproj.CopyComplete
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\obj\Debug\faturaProje.DTO.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DTO\obj\Debug\faturaProje.DTO.pdb

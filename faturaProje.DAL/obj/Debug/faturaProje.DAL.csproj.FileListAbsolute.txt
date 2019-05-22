@@ -1,0 +1,17 @@
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\faturaProje.DAL.dll.config
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\faturaProje.DAL.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\faturaProje.DAL.pdb
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\EntityFramework.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\faturaProje.ENT.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\faturaProje.ENT.pdb
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\EntityFramework.xml
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\obj\Debug\faturaProje.DAL.csprojAssemblyReference.cache
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\obj\Debug\faturaProje.DAL.csproj.CoreCompileInputs.cache
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\obj\Debug\faturaProje.DAL.csproj.CopyComplete
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\obj\Debug\faturaProje.DAL.dll
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\obj\Debug\faturaProje.DAL.pdb
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\bin\Debug\faturaProje.ENT.dll.config
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\obj\Debug\faturaProje.DAL.Migrations.ilk.resources
+F:\EntityFreamwoek\faturaProje\faturaProje.DAL\obj\Debug\faturaProje.DAL.csproj.GenerateResource.cache
